@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but easily-missed error in JavaScript when interacting with the DOM. The bug involves a simple typo in `getElementById` which can cause hours of debugging and frustration. The solution highlights the correct usage and demonstrates how to avoid this issue.
